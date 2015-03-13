@@ -1,3 +1,4 @@
+Add by master
 Creating a new branch is quick on dev (a new branch)
 dsddsdsds
 Git is a version control system.
